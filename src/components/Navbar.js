@@ -56,7 +56,7 @@ export const Navbar = () => {
                             </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle> SIGN UP </Button>}
+                    {button && <Button buttonStyle='btn--outline'> SIGN UP </Button>}
                 </div> 
             </nav>
         </>
