@@ -18,8 +18,7 @@ export const HeroSection = () => {
                 <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
                     Watch Trailer <i className="far fa-play-circle" />
                 </Button>
-
-                
+                    
             </div>
         </div>
     )

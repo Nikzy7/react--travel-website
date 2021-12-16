@@ -46,7 +46,7 @@ export const Navbar = () => {
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link className='nav-links' to='/product' onClick={closeMobileMenu}>
+                            <Link className='nav-links' to='/products' onClick={closeMobileMenu}>
                                 Product
                             </Link>
                         </li>
